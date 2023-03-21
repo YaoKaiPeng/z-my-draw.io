@@ -1,1 +1,78 @@
-<mxfile host="app.diagrams.net" modified="2023-03-21T03:35:21.775Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36 Edg/111.0.1661.44" version="21.0.8" etag="CMHwVmWQ3kJ686PMjJf2" type="github"><diagram name="第 1 页" id="NBnqKf8IdSxITUFXkIJZ">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2023-03-21T03:43:01.224Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36 Edg/111.0.1661.44" etag="MR8jCLfabvbSO1QcfSm2" version="21.0.8" type="github">
+  <diagram name="第 1 页" id="NBnqKf8IdSxITUFXkIJZ">
+    <mxGraphModel dx="2385" dy="1638" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="BbSoKZoscXejunzarcwr-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="BbSoKZoscXejunzarcwr-1" target="BbSoKZoscXejunzarcwr-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="BbSoKZoscXejunzarcwr-1" value="微信预警" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="220" y="240" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="BbSoKZoscXejunzarcwr-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="BbSoKZoscXejunzarcwr-2" target="BbSoKZoscXejunzarcwr-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="BbSoKZoscXejunzarcwr-4" value="发送预警" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="BbSoKZoscXejunzarcwr-3">
+          <mxGeometry x="-0.2889" y="4" relative="1" as="geometry">
+            <mxPoint x="-4" y="8" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="BbSoKZoscXejunzarcwr-2" value="nMiner-api" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="220" y="90" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="BbSoKZoscXejunzarcwr-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="BbSoKZoscXejunzarcwr-5" target="BbSoKZoscXejunzarcwr-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="BbSoKZoscXejunzarcwr-9" value="取消订阅" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="BbSoKZoscXejunzarcwr-8">
+          <mxGeometry x="-0.15" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="BbSoKZoscXejunzarcwr-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;dashed=1;shape=link;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="BbSoKZoscXejunzarcwr-5" target="BbSoKZoscXejunzarcwr-17">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="450" y="410.0689655172414" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="BbSoKZoscXejunzarcwr-18" value="访问 api/alertDetail/:id&lt;br&gt;地址打开预警详情页面" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="BbSoKZoscXejunzarcwr-16">
+          <mxGeometry x="-0.231" y="4" relative="1" as="geometry">
+            <mxPoint x="32" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="BbSoKZoscXejunzarcwr-5" value="打开预警，页面中有取消订阅按钮" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="220" y="380" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="BbSoKZoscXejunzarcwr-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="BbSoKZoscXejunzarcwr-7" target="BbSoKZoscXejunzarcwr-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="BbSoKZoscXejunzarcwr-7" value="打开确认取消页面" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="220" y="650" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="BbSoKZoscXejunzarcwr-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="BbSoKZoscXejunzarcwr-10" target="BbSoKZoscXejunzarcwr-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="BbSoKZoscXejunzarcwr-10" value="微信端询问是否授权" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="220" y="530" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="BbSoKZoscXejunzarcwr-12" value="确认取消，后台接口更新subject-api数据" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="220" y="790" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="BbSoKZoscXejunzarcwr-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="BbSoKZoscXejunzarcwr-17" target="BbSoKZoscXejunzarcwr-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="BbSoKZoscXejunzarcwr-17" value="后端根据alertId查询elog记录，获取当次预警的html代码" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="570" y="380" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="BbSoKZoscXejunzarcwr-22" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="BbSoKZoscXejunzarcwr-19" target="BbSoKZoscXejunzarcwr-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="BbSoKZoscXejunzarcwr-19" value="对html进行处理&lt;br&gt;增加取消订阅按钮" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="570" y="520" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="BbSoKZoscXejunzarcwr-21" value="返回页面" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="570" y="660" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
