@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-04-03T08:38:39.464Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36 Edg/111.0.1661.62" etag="EAbH-HrzVWJQa4XJGwOF" version="21.1.1" type="github">
+<mxfile host="app.diagrams.net" modified="2023-04-03T09:14:52.099Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36 Edg/111.0.1661.62" etag="DK89rP7tvMkbNjfnRgir" version="21.1.1" type="github">
   <diagram name="第 1 页" id="V6ZWbWmLyhybb35I75xX">
-    <mxGraphModel dx="1806" dy="1194" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1200" pageHeight="1920" math="0" shadow="0">
+    <mxGraphModel dx="2409" dy="1534" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1200" pageHeight="1920" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -11,19 +11,131 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="XtKHWl-mXtJoPtdo07aP-1" value="添加監控目標" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-130" y="-101" width="160" height="80" as="geometry" />
+          <mxGeometry x="-62" y="-154" width="160" height="80" as="geometry" />
         </mxCell>
         <mxCell id="XtKHWl-mXtJoPtdo07aP-9" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=open;startSize=14;endSize=14;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;" edge="1" parent="1" source="XtKHWl-mXtJoPtdo07aP-4" target="XtKHWl-mXtJoPtdo07aP-8">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="XtKHWl-mXtJoPtdo07aP-4" value="私密群組、賬號" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-4" y="78" width="160" height="80" as="geometry" />
+          <mxGeometry x="-74" y="18" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="XtKHWl-mXtJoPtdo07aP-15" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=open;startSize=14;endSize=14;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;" edge="1" parent="1" source="XtKHWl-mXtJoPtdo07aP-6" target="XtKHWl-mXtJoPtdo07aP-14">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="XtKHWl-mXtJoPtdo07aP-6" value="公開專業、賬號、論壇" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-235" y="84" width="160" height="80" as="geometry" />
+          <mxGeometry x="-305" y="24" width="160" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="XtKHWl-mXtJoPtdo07aP-8" value="添加超級賬號" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-4" y="278" width="160" height="80" as="geometry" />
+        <mxCell id="XtKHWl-mXtJoPtdo07aP-11" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=open;startSize=14;endSize=14;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;" edge="1" parent="1" source="XtKHWl-mXtJoPtdo07aP-8" target="XtKHWl-mXtJoPtdo07aP-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="XtKHWl-mXtJoPtdo07aP-19" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=open;startSize=14;endSize=14;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;" edge="1" parent="1" source="XtKHWl-mXtJoPtdo07aP-8" target="XtKHWl-mXtJoPtdo07aP-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="XtKHWl-mXtJoPtdo07aP-24" value="增加超級賬號" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="XtKHWl-mXtJoPtdo07aP-19">
+          <mxGeometry x="-0.2115" y="2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="XtKHWl-mXtJoPtdo07aP-8" value="選擇超級賬號" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-74" y="218" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="XtKHWl-mXtJoPtdo07aP-13" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=open;startSize=14;endSize=14;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;" edge="1" parent="1" source="XtKHWl-mXtJoPtdo07aP-10" target="XtKHWl-mXtJoPtdo07aP-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="XtKHWl-mXtJoPtdo07aP-10" value="填寫私密群組鏈接" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-74" y="418" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="XtKHWl-mXtJoPtdo07aP-12" value="添加完成" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-74" y="618" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="XtKHWl-mXtJoPtdo07aP-17" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=open;startSize=14;endSize=14;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;" edge="1" parent="1" source="XtKHWl-mXtJoPtdo07aP-14" target="XtKHWl-mXtJoPtdo07aP-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="XtKHWl-mXtJoPtdo07aP-25" value="是否後台自動用url對應會已採集的來源" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="XtKHWl-mXtJoPtdo07aP-17">
+          <mxGeometry x="-0.234" y="2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="XtKHWl-mXtJoPtdo07aP-14" value="輸入目標鏈接" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-305" y="224" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="XtKHWl-mXtJoPtdo07aP-16" value="添加完成" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-305" y="424" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="XtKHWl-mXtJoPtdo07aP-21" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=open;startSize=14;endSize=14;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="XtKHWl-mXtJoPtdo07aP-18" target="XtKHWl-mXtJoPtdo07aP-10">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="287.9411764705883" y="346" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="XtKHWl-mXtJoPtdo07aP-22" value="填寫完成" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="XtKHWl-mXtJoPtdo07aP-21">
+          <mxGeometry x="0.0859" y="-3" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="XtKHWl-mXtJoPtdo07aP-18" value="選擇平台&lt;br&gt;填寫賬號密碼" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="261" y="218" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="XtKHWl-mXtJoPtdo07aP-26" value="對應一個黑白名單" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;fontColor=#000000;darkOpacity=0.05;fillColor=#FFF9B2;strokeColor=none;fillStyle=solid;direction=west;gradientDirection=north;gradientColor=#FFF2A1;shadow=1;size=20;pointerEvents=1;" vertex="1" parent="1">
+          <mxGeometry x="-224" y="86" width="119" height="58" as="geometry" />
+        </mxCell>
+        <mxCell id="XtKHWl-mXtJoPtdo07aP-27" value="一個超級賬號&lt;br&gt;對應一個黑白名單" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;fontColor=#000000;darkOpacity=0.05;fillColor=#FFF9B2;strokeColor=none;fillStyle=solid;direction=west;gradientDirection=north;gradientColor=#FFF2A1;shadow=1;size=20;pointerEvents=1;" vertex="1" parent="1">
+          <mxGeometry x="206" y="180" width="119" height="67" as="geometry" />
+        </mxCell>
+        <mxCell id="XtKHWl-mXtJoPtdo07aP-29" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=open;startSize=14;endSize=14;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;" edge="1" parent="1" source="XtKHWl-mXtJoPtdo07aP-28" target="XtKHWl-mXtJoPtdo07aP-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="XtKHWl-mXtJoPtdo07aP-30" value="增" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="XtKHWl-mXtJoPtdo07aP-29">
+          <mxGeometry x="-0.1199" y="6" relative="1" as="geometry">
+            <mxPoint x="-1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="XtKHWl-mXtJoPtdo07aP-33" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=open;startSize=14;endSize=14;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;" edge="1" parent="1" source="XtKHWl-mXtJoPtdo07aP-28" target="XtKHWl-mXtJoPtdo07aP-32">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="XtKHWl-mXtJoPtdo07aP-34" value="刪" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="XtKHWl-mXtJoPtdo07aP-33">
+          <mxGeometry x="-0.3516" y="1" relative="1" as="geometry">
+            <mxPoint x="-1" y="18" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="XtKHWl-mXtJoPtdo07aP-35" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=open;startSize=14;endSize=14;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;" edge="1" parent="1" source="XtKHWl-mXtJoPtdo07aP-28" target="XtKHWl-mXtJoPtdo07aP-32">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="XtKHWl-mXtJoPtdo07aP-36" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=open;startSize=14;endSize=14;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;" edge="1" parent="1" source="XtKHWl-mXtJoPtdo07aP-28" target="XtKHWl-mXtJoPtdo07aP-32">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="XtKHWl-mXtJoPtdo07aP-38" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=open;startSize=14;endSize=14;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;" edge="1" parent="1" source="XtKHWl-mXtJoPtdo07aP-28" target="XtKHWl-mXtJoPtdo07aP-37">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="XtKHWl-mXtJoPtdo07aP-39" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=open;startSize=14;endSize=14;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;" edge="1" parent="1" source="XtKHWl-mXtJoPtdo07aP-28" target="XtKHWl-mXtJoPtdo07aP-37">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="XtKHWl-mXtJoPtdo07aP-40" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=open;startSize=14;endSize=14;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;" edge="1" parent="1" source="XtKHWl-mXtJoPtdo07aP-28" target="XtKHWl-mXtJoPtdo07aP-37">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="XtKHWl-mXtJoPtdo07aP-44" value="查" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="XtKHWl-mXtJoPtdo07aP-40">
+          <mxGeometry x="-0.2679" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="XtKHWl-mXtJoPtdo07aP-42" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=open;startSize=14;endSize=14;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;" edge="1" parent="1" source="XtKHWl-mXtJoPtdo07aP-28" target="XtKHWl-mXtJoPtdo07aP-41">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="XtKHWl-mXtJoPtdo07aP-43" value="改" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="XtKHWl-mXtJoPtdo07aP-42">
+          <mxGeometry x="-0.2469" y="-4" relative="1" as="geometry">
+            <mxPoint y="1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="XtKHWl-mXtJoPtdo07aP-28" value="管理功能" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="226" y="-370" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="XtKHWl-mXtJoPtdo07aP-32" value="刪除" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="154" y="-157" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="XtKHWl-mXtJoPtdo07aP-37" value="管理功能" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="586" y="-157" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="XtKHWl-mXtJoPtdo07aP-41" value="修改" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="362" y="-154" width="160" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
